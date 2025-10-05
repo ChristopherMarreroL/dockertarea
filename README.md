@@ -19,6 +19,7 @@
 
 7. Creamos repositorio en github y subimos el Dockerfile:
 7.1 Antes del despliegue hice gitignore los documentos sencibles: tareadocker.pem y tareadocker.ppk
+<img width="1119" height="342" alt="image" src="https://github.com/user-attachments/assets/017c3147-136d-4dae-bdb9-50e0b01a5c85" />
 <img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/ac37d61a-6298-4012-9b12-d884c655e732" />
 <img width="964" height="162" alt="image" src="https://github.com/user-attachments/assets/f49aef12-38e6-43a2-8f48-c6cbba9bb198" />
 
