@@ -19,4 +19,8 @@
 
 7. Creamos repositorio en github y subimos el Dockerfile:
 <img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/ac37d61a-6298-4012-9b12-d884c655e732" />
+<img width="964" height="162" alt="image" src="https://github.com/user-attachments/assets/f49aef12-38e6-43a2-8f48-c6cbba9bb198" />
 
+8. Creamos un Workflow (fallo una vez):
+<img width="975" height="256" alt="image" src="https://github.com/user-attachments/assets/60c5aff4-0f85-4811-9500-5914188a002d" />
+<img width="975" height="452" alt="image" src="https://github.com/user-attachments/assets/f42127f8-0e9c-43eb-8f4f-3e07008e4895" />
